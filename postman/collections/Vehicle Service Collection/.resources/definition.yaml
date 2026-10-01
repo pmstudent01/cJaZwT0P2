@@ -1,0 +1,9 @@
+$kind: collection
+variables:
+  baseUrl: "{{baseUrl}}"
+auth:
+  - id: e25b0b85-ff2c-491d-bc58-4ffb9c491652
+    type: apikey
+    name: apikey auth
+    credentials:
+      key: X-API-Key

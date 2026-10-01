@@ -1,0 +1,9 @@
+name: Vehicle Service Mock
+protocol: http
+associations:
+  - postman/collections/Vehicle Service Collection
+scenarios:
+  - name: default
+    path: ./default.js
+    default: true
+id: 01a0f6b2-25ab-757e-979d-92fcc31c2a49
