@@ -1,0 +1,9 @@
+name: New Mock
+id: 01a0f68b-b1d9-751b-9384-6d04d9a1f6cf
+protocol: http
+associations: []
+scenarios:
+  - name: default
+    id: 01a0f68b-b480-75da-a5f6-d1165aaa5f17
+    path: ./default.js
+    default: true

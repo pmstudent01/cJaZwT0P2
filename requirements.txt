@@ -1,0 +1,5 @@
+# The Vehicle Service SDK uses only Python stdlib (urllib).
+# Install the local SDK package with:
+#   pip install -e sdk/
+#
+# No third-party packages are required.
